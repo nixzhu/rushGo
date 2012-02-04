@@ -1,0 +1,15 @@
+(;GM[1]FF[4]AP[qGo:1.5.4]ST[1]
+SZ[19]HA[0]KM[5.5]PW[白棋]PB[黑棋]
+
+;B[bq];W[cq];B[cr];W[dr];B[bs];W[bp];B[ar];W[ap];B[aq];W[ds]
+;B[cs];W[dp];B[jr];W[jq];B[kr];W[kq];B[lr];W[lq];B[mr];W[mq]
+;B[js];W[ir];B[nr];W[nq];B[ls];W[or];B[ns];W[is];B[pj];W[os]
+;B[oi];W[pk];B[ok];W[qj];B[qi];W[qk];B[nj];W[ri];B[ph];W[rh]
+;B[qh];W[nh];B[oh];W[ol];B[nk];W[mi];B[ni];W[mh];B[dj];W[mj]
+;B[dk];W[mk];B[dl];W[nl];B[di];W[og];B[dh];W[pg];B[dg];W[qg]
+;B[cg];W[ci];B[bg];W[bh];B[cm];W[bk];B[cj];W[bj];B[bm];W[ai]
+;B[bl];W[ak];B[hb];W[gb];B[gc];W[fb];B[fc];W[eb];B[ec];W[db]
+;B[dc];W[cb];B[bb];W[ca];B[cc];W[ea];B[me];W[nd];B[ne];W[od]
+;B[oe];W[pd];B[pe];W[qd];B[qe];W[md];B[ld];W[mc];B[lc];W[mb]
+;B[lb];W[qc];B[rd];W[qb];B[rc];W[iq];B[rb];W[oq]
+)
